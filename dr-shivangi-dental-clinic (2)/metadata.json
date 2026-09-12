@@ -1,0 +1,8 @@
+{
+  "name": "Dr Shivangi Dental Clinic",
+  "description": "Premium dental clinic providing professional and modern dental care in New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
